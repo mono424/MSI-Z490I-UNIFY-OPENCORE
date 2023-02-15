@@ -1,0 +1,1 @@
+You will need to replace all `{REPLACE_ME}` Placeholders inside the `config.json` before you start.
